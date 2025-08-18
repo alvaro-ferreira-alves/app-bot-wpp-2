@@ -51,7 +51,7 @@
             buttons: [
                 'excel'
             ],
-            "ajax": "https://app-bot-wpp-4.onrender.com/api/read.php",
+            "ajax": "https://app-bot-wpp-5.onrender.com/api/read.php",
             "columns": [
                 {
                     "data": "pdv"
